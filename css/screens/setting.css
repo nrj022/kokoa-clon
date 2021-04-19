@@ -1,0 +1,45 @@
+.setting-header i {
+  font-size: 24px;
+  margin-top: 2px;
+}
+
+.setting-info {
+  border-bottom: var(--main-border);
+}
+
+.setting-kind {
+  display: flex;
+  margin: 35px 0;
+  font-size: 20px;
+}
+
+.setting-kind i {
+  margin-right: 15px;
+}
+
+.themes-title {
+  display: flex;
+}
+
+.setting-kind--sub {
+  display: flex;
+  justify-content: space-between;
+}
+
+.setting-kind--sub .sub-info {
+  color: var(--gray);
+}
+
+.setting-new {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  font-size: 8px;
+  font-weight: 700;
+  background-color: tomato;
+  color: white;
+  margin: 5px 0 0 10px;
+}

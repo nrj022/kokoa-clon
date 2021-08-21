@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
 
 @import "reset.css";
@@ -31,3 +32,38 @@ body {
 .main-chat {
   padding: 0px var(--horizontal-space);
 }
+=======
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+
+@import "reset.css";
+@import "variables.css";
+
+/* Components */
+@import "components/status-bar.css";
+@import "components/nav-bar.css";
+@import "components/screen-header.css";
+@import "components/user-component.css";
+@import "components/badge.css";
+
+/* Screens */
+@import "screens/login.css";
+@import "screens/friends.css";
+@import "screens/find.css";
+@import "screens/more.css";
+@import "screens/setting.css";
+@import "screens/chatroom.css";
+
+body {
+  color: #2f363e;
+  font-family: "Open Sans", sans-serif;
+  height: 1000vh;
+}
+
+.main-screen,
+.friends-screen,
+.user-more,
+.setting,
+.main-chat {
+  padding: 0px var(--horizontal-space);
+}
+>>>>>>> cba6a6b6fd5aa39a6db467dce999b2feeecf5e24

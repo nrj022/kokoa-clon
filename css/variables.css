@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 :root {
   --yellow: #fae100;
   --horizontal-space: 20px;
   --main-border: 1.5px solid rgba(0, 0, 0, 0.05);
   --gray: rgba(0, 0, 0, 0.5);
 }
+=======
+:root {
+  --yellow: #fae100;
+  --horizontal-space: 20px;
+  --main-border: 1.5px solid rgba(0, 0, 0, 0.05);
+  --gray: rgba(0, 0, 0, 0.5);
+}
+>>>>>>> cba6a6b6fd5aa39a6db467dce999b2feeecf5e24

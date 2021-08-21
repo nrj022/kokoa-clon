@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .nav {
   position: fixed;
   bottom: 0;
@@ -34,3 +35,41 @@
   right: -5px;
   top: 0px;
 }
+=======
+.nav {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #f9f9fa;
+  padding: 15px 45px;
+  box-sizing: border-box;
+  border-top: 1px solid rgba(121, 121, 121, 0.3);
+}
+
+.nav__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav__link {
+  color: #2f363e;
+  position: relative;
+}
+
+.nav__notification {
+  position: absolute;
+  left: 14px;
+  bottom: 8px;
+}
+
+.nav__new {
+  background-color: tomato;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  display: flex;
+  position: absolute;
+  right: -5px;
+  top: 0px;
+}
+>>>>>>> cba6a6b6fd5aa39a6db467dce999b2feeecf5e24

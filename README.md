@@ -2,4 +2,4 @@
 
 ## 1. 로그인 페이지
 
-   <img src="img/screens/login.png" style="width: 200px;"/>
+   <img src="img/screens/login.png" style="width: 100px;"/>

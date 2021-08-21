@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #friends-display-link {
   background-color: #fafafa;
   text-align: center;
@@ -24,30 +23,3 @@
   justify-content: space-between;
   color: #afafaf;
 }
-=======
-#friends-display-link {
-  background-color: #fafafa;
-  text-align: center;
-  display: block;
-  padding: 12px 0px;
-  margin-bottom: 8px;
-  margin-top: -12px;
-}
-
-#friends-display-link i {
-  color: #d5d5d5;
-}
-
-.friends-screen__channel {
-  margin-top: 16px;
-  padding-top: 14px;
-  border-top: var(--main-border);
-}
-
-.friends-screen__channel-header {
-  margin-bottom: 30px;
-  display: flex;
-  justify-content: space-between;
-  color: #afafaf;
-}
->>>>>>> cba6a6b6fd5aa39a6db467dce999b2feeecf5e24

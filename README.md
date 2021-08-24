@@ -28,3 +28,7 @@ ID, PASSWORD는 input 태그 required로 필수 입력
 ### 6. 메뉴, 어플 추천
 
 <img src="img/screens/menu+suggestion.png" width="200px"/>
+
+### 7. 설정
+
+<img src="img/screens/setting.png" width="200px"/>
